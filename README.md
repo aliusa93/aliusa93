@@ -1,4 +1,9 @@
-Hi, I like making Discord bots and websites.
+Fullstack Developer
 
+Projects:
+Mainly back-end for Gavu
+Workout selection using Java objects/classes
 
-(I know I could do more with this readme but I'm lazy...)
+Occupation:
+Student
+
