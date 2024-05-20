@@ -2,8 +2,7 @@ Fullstack Developer
 
 Projects:
 Mainly back-end for Gavu
-
-Workout selection using Java objects/classes
+Arif Habit Tracker (implement AI??) (Main Solo Project)
 
 Occupation:
 Student
