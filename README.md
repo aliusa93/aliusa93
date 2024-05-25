@@ -1,9 +1,8 @@
 Fullstack Developer
 
 Projects:
-Mainly back-end for Gavu
+Gavu and Life X Deen. (Founder, WerewolfTamer12 and UmarZ are collaborators)
 
-Life X Deen. (Founder, WerewolfTamer12 and UmarZ are collaborators)
 
 Occupation:
 Student
