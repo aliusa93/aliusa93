@@ -2,7 +2,8 @@ Fullstack Developer
 
 Projects:
 Mainly back-end for Gavu
-Arif Habit Tracker (implement AI??) (Main Solo Project)
+
+Life X Deen. (Founder, WerewolfTamer12 and UmarZ are collaborators)
 
 Occupation:
 Student
